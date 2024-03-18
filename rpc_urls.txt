@@ -1,0 +1,17 @@
+https://docs.moonbeam.network/builders/get-started/quick-start/#__tabbed_1_3
+
+Moonbase_Alpha = "https://rpc.api.moonbase.moonbeam.network"
+
+
+Subscan	Substrate	https://moonbase.subscan.io/
+
+
+
+---
+
+
+SEPOLIA:
+
+https://sepolia.etherscan.io/address/0xd7bc040bd64a1dd6f931001660b6d5265fed76ea#writeContract
+
+https://sepolia.etherscan.io/address/0x1efbd93f7e7f0ccc80fc384a401780189957a7c0#writeContract
